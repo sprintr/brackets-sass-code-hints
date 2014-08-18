@@ -1,0 +1,13 @@
+{
+	"name": "io.brackets-sass-code-hints",
+	"title": "Brackets SASS Code Hints",
+	"description": "Provides code hints for SASS documents",
+	"homepage": "https://github.com/sprintr/brackets-sass-code-hints",
+	"version": "0.1.0",
+	"author": "Amin Ullah Khan <aminullah@outlook.com> (https://github.com/sprintr)",
+	"licence": "MIT",
+	"engines": {
+		"brackets": ">=0.42.0"
+	},
+	"keywords": ["SASS", "Hints", "Autocomplete"]
+}
